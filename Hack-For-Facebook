@@ -16,36 +16,36 @@ os.system("clear")
 os.system("figlet LEE KO FB HACK")
 time.sleep(5)
 if sys.version_info[0] !=2: 
-	print('''---Hack Min May Sout Phot 0%---''')
-time.sleep(3)
+	print('''---Min May Sout Phoke Is Hacking 0%---''')
+time.sleep(2)
 if sys.version_info[0] !=2: 
-	print('''---Ma Aye Loe Min Aung Hlaing 10%---''')
-time.sleep(3)
+	print('''---Min May Sout Phoke Is Hacking 10%---''')
+time.sleep(2)
 if sys.version_info[0] !=2: 
-	print('''---Ma Aye Loe Min Aung Hlaing 20%---''')
-time.sleep(3)
+	print('''---Min May Sout Phoke Is Hacking 20%---''')
+time.sleep(2)
 if sys.version_info[0] !=2: 
-	print('''---Ma Aye Loe Min Aung Hlaing 30%---''')
-time.sleep(3)
+	print('''---Min May Sout Phoke Is Hacking 30%---''')
+time.sleep(2)
 if sys.version_info[0] !=2: 
-	print('''---Ma Aye Loe Min Aung Hlaing 40%---''')
-time.sleep(3)
+	print('''---Min May Sout Phoke Is Hacking 40%---''')
+time.sleep(2)
 if sys.version_info[0] !=2: 
 	print('''---Hack Min May Sout Phot 50%---''')
-time.sleep(3)
+time.sleep(2)
 if sys.version_info[0] !=2: 
 	print('''---Hack Min May Sout Phot 60%---''')
-time.sleep(3)
+time.sleep(2)
 if sys.version_info[0] !=2: 
 	print('''---Hack Min May Sout Phot 70%---''')
-time.sleep(3)
+time.sleep(2)
 if sys.version_info[0] !=2: 
 	print('''---Hack Min May Sout Phot 80%---''')
-time.sleep(3)
+time.sleep(2)
 if sys.version_info[0] !=2:
 	print('''---Hack Min May Sout Phot 90%---''')
-time.sleep(3)
+time.sleep(2)
 if sys.version_info[0] !=2: 
 	print('''---Hack Min May Sout Phot 100%---''')
 if sys.version_info[0] !=2:
-	print('''Min May Sout Phot is Hacked By Stevin Alex---''')
+	print('''Min May Sout Phot is Hacked By Wai Yan Lin---''')
