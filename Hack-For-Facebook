@@ -31,21 +31,21 @@ if sys.version_info[0] !=2:
 	print('''---Min May Sout Phoke Is Hacking 40%---''')
 time.sleep(2)
 if sys.version_info[0] !=2: 
-	print('''---Hack Min May Sout Phot 50%---''')
+	print('''---Min May Sout Phoke Is Hacking 50%---''')
 time.sleep(2)
 if sys.version_info[0] !=2: 
-	print('''---Hack Min May Sout Phot 60%---''')
+	print('''---Min May Sout Phoke Is Hacking 60%---''')
 time.sleep(2)
 if sys.version_info[0] !=2: 
-	print('''---Hack Min May Sout Phot 70%---''')
+	print('''---Min May Sout Phoke Is Hacking 70%---''')
 time.sleep(2)
 if sys.version_info[0] !=2: 
-	print('''---Hack Min May Sout Phot 80%---''')
+	print('''---Min May Sout Phoke Is Hacking 80%---''')
 time.sleep(2)
 if sys.version_info[0] !=2:
-	print('''---Hack Min May Sout Phot 90%---''')
+	print('''---Min May Sout Phoke Is Hacking 90%---''')
 time.sleep(2)
 if sys.version_info[0] !=2: 
-	print('''---Hack Min May Sout Phot 100%---''')
+	print('''---Min May Sout Phoke Is Hacking 100%---''')
 if sys.version_info[0] !=2:
 	print('''Min May Sout Phot is Hacked By Wai Yan Lin---''')
